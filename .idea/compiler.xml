@@ -6,7 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="DataRepository" />
+        <module name="vocabManagement-export" />
+        <module name="userManagement" />
+        <module name="quizManagement" />
+        <module name="vocabManagement" />
+        <module name="quizManagement-export" />
       </profile>
     </annotationProcessing>
   </component>

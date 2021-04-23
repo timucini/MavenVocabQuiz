@@ -8,7 +8,11 @@
   <artifactId>MavenVocabQuiz</artifactId>
   <version>1.0-SNAPSHOT</version>
   <modules>
-    <module>DataRepository</module>
+    <module>vocabManagement</module>
+    <module>vocabManagement-export</module>
+    <module>quizManagement</module>
+    <module>quizManagement-export</module>
+    <module>userManagement</module>
   </modules>
   <packaging>pom</packaging>
 
